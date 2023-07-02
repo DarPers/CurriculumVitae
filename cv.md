@@ -35,7 +35,7 @@
 * Курс "Введение в интернет" на платформе Hexlet
 * Курс ".NET DEVELOPMENT. Самостоятельное обучение. Базовый уровень" на платформе epam training
 * Курс "Основы Java" на платформе Udemy
-* Курс "Мобтльная разработка. Основы Kotlin" на платформе Udemy
+* Курс "Мобильная разработка. Основы Kotlin" на платформе Udemy
 
 ## Опыт разработки
 * Start-up проект "Мобильное приложение по интеллектуальному управлению сварочными процессами" (Kotlin, Java, Android Studio) [GitHub проекта](https://github.com/VladislavDobrihlopez/WeldingStartup)
