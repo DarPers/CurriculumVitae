@@ -1,2 +1,2 @@
 # CurriculumVitae
-https://DariaPers.github.io/Markdown/cv
+https://DariaPers.github.io/CurriculumVitae/cv
